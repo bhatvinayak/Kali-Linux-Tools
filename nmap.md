@@ -44,3 +44,37 @@ Nmap is a free and open-source network scanner created by Gordon Lyon. Nmap is u
 > nmap -sU IP
 
 
+## At last we are looking at `options` :
+
+* Only scan specified ports :
+
+> nmap -p <port ranges> IP
+ 
+* Fast (limited port) scan :
+
+> nmap -F IP
+
+* Aggressive Scan :
+
+> nmap -A IP
+
+* Version detection :
+
+> nmap -sV IP
+
+* Enable OS detection :
+
+> nmap -o IP
+
+* Script scan using the default set of scripts :
+
+> nmap -sC IP
+
+* Spoof source address :
+
+> nmap -S IP_Address_to_spoof Target_IP
+
+* For Help :
+
+> nmap -h
+
