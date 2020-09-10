@@ -15,7 +15,7 @@ First we'll take a look at `target_specification` :
 
  > nmap IP
 
-* with range of IP :
+* With range of IP :
 
 > nmap IP/subnet_mask
 
