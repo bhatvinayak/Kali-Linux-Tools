@@ -10,5 +10,18 @@ Syntax
 
 > nmap [scan_type] [options] target_specification
 
-First we'll take a look at `scan_types` :
+First we'll take a look at `target_specification` :
+
+* With the IP :
+
+ > nmap IP
+
+* with range of IP :
+
+> nmap IP/subnet_mask
+
+* Multiple IP :
+
+> nmap IP1, IP2, IP3 ...
+
 
