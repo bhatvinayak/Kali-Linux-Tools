@@ -5,7 +5,7 @@ Nmap is a free and open-source network scanner created by Gordon Lyon. Nmap is u
 
 ## Syntax
 
-> nmap [scan_type] [options] target_specification
+> # nmap [scan_type] [options] target_specification
 
 ## First we'll take a look at `target_specification` :
 
