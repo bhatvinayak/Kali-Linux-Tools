@@ -21,4 +21,26 @@ Nmap is a free and open-source network scanner created by Gordon Lyon. Nmap is u
 
 > nmap IP1, IP2, IP3 ...
 
+## Now it's time for `scan_type` :
+
+* No port scan :
+
+> nmap -sn IP
+
+* No ping scan :
+
+> nmap -Pn IP
+
+* TCP SYN Scan :
+
+> nmap -sS IP
+
+* TCP connect scan :
+
+> nmap -sT IP
+
+* UDP scan :
+
+> nmap -sU IP
+
 
