@@ -7,3 +7,15 @@ Tools Covered here are :
 * [Nmap](nmap.md)
 
 * [Netcat](netcat.md)
+
+* [Gobuster](gobuster.md)
+
+* [Nikto](nikto.md)
+
+* [Metasploit](metasploit.md)
+
+* [Hashcat](hashcat.md)
+
+* [Sqlmap](sqlmap.md)
+
+* [Smbmap](smbmap.md)
