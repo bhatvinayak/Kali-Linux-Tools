@@ -50,10 +50,10 @@ Netcat functions as a back-end tool that allows for port scanning and port liste
 
       In victim's machine
       
-      > nc -l -p [port] > filename
+     > nc -l -p [port] > filename
 
       In attacker's machine
       
-      > cat '/path_to_file/filename' | nc [IP] [port]
+     > cat '/path_to_file/filename' | nc [IP] [port]
 
 
