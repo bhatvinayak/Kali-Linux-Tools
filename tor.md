@@ -8,3 +8,22 @@ Tor's intended use is to protect the personal privacy of its users, as well as t
 
 In penetration testing, there might be a need to conduct a full-fledged black-box test. This is a form of testing in which security professionals have to deal with such things as firewalls and other mechanisms of restriction on the customer’s side.
 In this case, the Tor network can be used in order to constantly change IP and DNS addresses and therefore successfully overcome any restrictions
+
+
+# Installation :
+
+Type in command prompt (make sure you are root user)
+
+> apt-get install tor
+
+# Starting Tor :
+
+>  service tor start
+
+# To check availibility :
+
+> service tor status
+
+# To stop Tor :
+
+> service tor stop
