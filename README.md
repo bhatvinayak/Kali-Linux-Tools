@@ -36,3 +36,5 @@ Tools Covered here are :
 
 * [Autopsy](autopsy.md)
 
+* [Tor](tor.md)
+
