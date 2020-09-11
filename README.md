@@ -1,4 +1,4 @@
-# Imp-tools
+# Kali-Linux-Tools
 
 I'll be covering most popular tools used in ethical hacking  here.
 
@@ -19,3 +19,20 @@ Tools Covered here are :
 * [Sqlmap](sqlmap.md)
 
 * [Smbmap](smbmap.md)
+
+* [Netdiscover](netdiscover.md)
+
+* [Hydra](hydra.md)
+
+* [Setollkit](setoolkit.md)
+
+* [Aircrack](aircrack.md)
+
+* [John](john.md)
+
+* [Lynis](lynis.md)
+
+* [Nessus](nessus.md)
+
+* [Autopsy](autopsy.md)
+
