@@ -6,7 +6,7 @@ Gobuster is a tool for brute forcing URLs (Files and Directories) and DNS subdom
 **Syntax**
 
 
-> # gobuster dns [options]
+> # gobuster [options]
 
 
 **Options**
@@ -60,3 +60,10 @@ Gobuster is a tool for brute forcing URLs (Files and Directories) and DNS subdom
 
 > -h
 
+* To specify directory/file brute forcing mode :
+
+> dir
+
+* To specify dns bruteforcing mode :
+
+> dns
