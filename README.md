@@ -10,6 +10,8 @@ Tools Covered here are :
 
 * [Gobuster](gobuster.md)
 
+* [Dirb](dirb.md)
+
 * [Nikto](nikto.md)
 
 * [Metasploit](metasploit.md)
