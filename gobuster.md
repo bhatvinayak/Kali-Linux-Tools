@@ -1,6 +1,6 @@
 # Gobuster
 
-Gobuster is a tool for brute forcing URIs (Files and Directories) and DNS subdomains.
+Gobuster is a tool for brute forcing URLs (Files and Directories) and DNS subdomains.
 
 
 **Syntax**
@@ -24,7 +24,7 @@ Gobuster is a tool for brute forcing URIs (Files and Directories) and DNS subdom
 
 > gobuster -w [wordlist]
 
-* To include a URL :
+* To include a full URL :
 
 > gobuster -u [URl]
 
@@ -35,3 +35,28 @@ Gobuster is a tool for brute forcing URIs (Files and Directories) and DNS subdom
 * To check only for specified extensions php,doc,html,aspx,asp,txt etc :
 
 > -x [extensions]
+
+*  Verbose output (show all results) :
+
+> -v
+
+* Exclude the status codes in the results
+
+> -n
+
+* For specific User-Agent :
+
+> -a [user_agent_name]
+
+* For username :
+
+> -U
+
+* For password :
+
+> -P
+
+* To specify a HTTP header :
+
+> -h
+
