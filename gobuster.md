@@ -5,10 +5,12 @@ Gobuster is a tool for brute forcing URIs (Files and Directories) and DNS subdom
 
 ** Syntax **
 
+
 > # gobuster dns [options]
 
 
 ** Options **
+
 
 * Help :
 
