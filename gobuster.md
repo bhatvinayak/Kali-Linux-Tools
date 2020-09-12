@@ -3,13 +3,13 @@
 Gobuster is a tool for brute forcing URIs (Files and Directories) and DNS subdomains.
 
 
-** Syntax **
+**Syntax**
 
 
 > # gobuster dns [options]
 
 
-** Options **
+**Options**
 
 
 * Help :
