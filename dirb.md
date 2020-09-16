@@ -28,4 +28,3 @@ It doesn’t search vulnerabilities nor does it look for web contents that can b
 
 *  -R : Interactive recursion
 
-* 
