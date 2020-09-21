@@ -1,1 +1,1 @@
-#Hashcat
+# Hashcat
