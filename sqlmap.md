@@ -8,7 +8,7 @@ sqlmap is an open source penetration testing tool that automates the process of 
 
 * To know the `Database name` :
 
-    > sqlmap -u <url> --dbs
+    > sqlmap -u [url] --dbs
   
 * To know the `Table name` :
 
@@ -18,7 +18,7 @@ sqlmap is an open source penetration testing tool that automates the process of 
 
     > sqlmap -u [url] -D [database_name] -T [table_name] --columns
     
- * To dump data :
+ * To `dump data` :
     
     > sqlmap -u [url] -D [database_name] -T [table_name] -C [column_name] --dump
     
