@@ -12,8 +12,19 @@ The color- respectivly sample-frequencies are not changed thus making the embedd
 
 **Usage**
 
-      > steghide embed -cf file1 -ef file2
-      
+* Encryption :
+
+      steghide embed -cf file1 -ef file2
       Enter passphrase:
       Re-Enter passphrase:
       embedding "file1" in "file2"... done
+
+* Decryption :
+
+      steghide extract -sf file1
+      Enter passphrase:
+      wrote extracted data to "file2"
+      
+* For information about the encrypted file :
+
+> steghide info file
