@@ -13,6 +13,7 @@ The color- respectivly sample-frequencies are not changed thus making the embedd
 **Usage**
 
       > steghide embed -cf file1 -ef file2
+      
       Enter passphrase:
       Re-Enter passphrase:
       embedding "file1" in "file2"... done
